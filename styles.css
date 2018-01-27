@@ -1,0 +1,57 @@
+.navbar-dark .navbar-brand {
+    color: #ef0f95;
+}
+
+.jumbotron{
+  background-image:url(pastel.jpg);
+  background-size:cover;
+  margin-bottom: 0px;
+}
+h1{
+  color:#ef0f95;
+  font-family: 'Playfair Display SC', serif;
+}
+i{
+  margin-right: 200px;
+}
+h2, h3{
+  color:#0a3c64;
+  font-family: 'Playfair Display SC', serif;
+}
+#brand{
+  color:#ef0f95;
+  font-weight: bold;
+
+}
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+.btn-primary {
+    background-color: #ef0f95;
+    border-color: #ef0f95;
+}
+.grey{
+  background-color:#e2e9f1;
+}
+.padding{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+p {
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+}
+.spaceontop{
+  margin-top:1rem;
+}
+.col-lg{
+  padding-left:0px;
+  padding-right:0px;
+}
+.padding-small{
+  padding-left:12px;
+  padding-right:12px;
+}
+.spacebottom{
+  margin-bottom:1rem;
+}
